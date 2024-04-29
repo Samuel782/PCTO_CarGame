@@ -74,8 +74,7 @@
     <Compile Include="Assets/PROMETEO - Car Controller/Scripts/PrometeoCarController.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets/KajamansRoads/FileNamesDescription.txt" />
-    <None Include="Assets/KajamansRoads/Free/ReadMe.txt" />
+    <None Include="Assets/Cartoon Advance City/Documentation/Read Me.txt" />
     <None Include="Assets/MSAdvancedCameraController/UpdateNotes.txt" />
     <None Include="Assets/PROMETEO - Car Controller/Fonts/Licence.txt" />
   </ItemGroup>
